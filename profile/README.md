@@ -1,7 +1,5 @@
 # Hello there 👋
 
-![ruhrcloud](https://raw.githubusercontent.com/ruhrcloud/.github/refs/heads/main/profile/banner.png)
-
 ruhrcloud is a European company specializing in cloud-native architectures and scalable solutions.
 
 ## Get In Touch
